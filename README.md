@@ -125,11 +125,17 @@ The script uses multiple methods to detect Oracle installations:
 
 ## Support
 
-If you find this tool useful and would like to support its development, consider making a donation:
+**This tool is completely FREE!** If this Oracle patch collection solution has been helpful for your database administration needs, please consider supporting its development:
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AhmedAlhedewy?country.x=EG&locale.x=en_US)
 
-Your support helps maintain and improve this project!
+Your donations help me continue developing and maintaining free Oracle tools for the DBA community. With your support, I can create more useful scripts and utilities to help Oracle administrators worldwide. Every contribution, no matter how small, makes a difference! 🙏
+
+**Why donate?**
+* Keep this tool free and open source
+* Fund development of additional Oracle patch management scripts
+* Support ongoing maintenance and updates
+* Help create more database administration utilities
 
 ## License
 
