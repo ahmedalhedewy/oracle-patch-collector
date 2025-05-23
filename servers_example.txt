@@ -1,0 +1,16 @@
+# Example server list file
+# One server per line - hostnames or IP addresses
+# Lines starting with # are ignored
+
+# Production Oracle servers
+oracledb01.company.com
+oracledb02.company.com
+192.168.1.10
+192.168.1.11
+
+# Development servers
+oradev01.company.com
+oradev02.company.com
+
+# Test environment
+oratest01.company.com
